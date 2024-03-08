@@ -1,6 +1,6 @@
 {
-  "name": "@moncici/binance",
-  "version": "1.0.2",
+  "name": "@naya-cat-1/binance1",
+  "version": "1.0.10",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
@@ -9,24 +9,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moncici007/binance"
+    "url": "https://github.com/naya-cat-1/binance"
   },
-  "website": "https://github.com/moncici007/binance.git",
+  "website": "https://github.com/naya-cat-1/binance.git",
   "keywords": [
     "binance",
     "client",
     "arbitrim"
   ],
-  "author": "moncici007",
+  "author": "naya-cat-1",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moncici007/binance/issues"
+    "url": "https://github.com/naya-cat-1/binance/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/moncici007/binance#readme",
+  "homepage": "https://github.com/naya-cat-1/binance#readme",
   "dependencies": {
     "@moncici/date-time-processor": "^1.0.3",
     "@moncici/log": "^1.0.2",
