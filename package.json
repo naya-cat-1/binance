@@ -1,6 +1,6 @@
 {
   "name": "@naya-cat-1/binance",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
